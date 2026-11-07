@@ -1,0 +1,23 @@
+Features
+Add product warranty details
+View all registered products
+Search products by name
+Check warranty expiry dates
+View expired and upcoming warranties
+Delete warranty records
+Store data in a JSON file
+
+Project Structure
+Personal_Warranty_Tracker/
+│
+├── main.py
+├── warranty_manager.py
+├── storage.py
+├── utils.py
+├── config.py
+├── requirements.txt
+├── .gitignore
+├── README.md
+│
+└── data/
+    └── warranties.json
